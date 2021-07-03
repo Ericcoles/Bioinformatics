@@ -1,2 +1,3 @@
 # Bioinformatics
-Bioinformatics project
+I am starting some Bioinformatics projects.
+Stay tuned!
